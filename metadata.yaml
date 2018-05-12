@@ -1,0 +1,29 @@
+_repo: Burlesques_39604
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39604-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Bateman, H. M. (Henry Mayo)
+    alias: Bateman, Henry Mayo
+    birthdate: 1887
+    deathdate: 1970
+    gutenberg_agent_id: '40105'
+    url: http://www.gutenberg.org/2009/agents/40105
+    wikipedia: http://en.wikipedia.org/wiki/H._M._Bateman
+description: ''
+gutenberg_issued: '2012-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39604'
+  lccn: '33016173'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NC'
+- !lcsh 'English wit and humor, Pictorial'
+title: Burlesques
+url: http://www.gutenberg.org/ebooks/39604
